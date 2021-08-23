@@ -9,6 +9,10 @@ O projeto permite comunicação em um canal, entre usuários e criação de cana
 
 # Para executar o projeto
 
+Requisitos:
+nodejs
+.NET 5.0
+
 - git clone https://github.com/hhendrikk/TakeChatTest.git
 
 ## Cliente:
@@ -20,4 +24,4 @@ O projeto permite comunicação em um canal, entre usuários e criação de cana
 ## Server:
 
 - cd backend
-- dotnet run --project ./Api/Api.cdproj
+- dotnet run --project Api/Api.csproj
