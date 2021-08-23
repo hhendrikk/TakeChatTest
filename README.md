@@ -10,8 +10,8 @@ O projeto permite comunicação em um canal, entre usuários e criação de cana
 # Para executar o projeto
 
 Requisitos:
-nodejs
-.NET 5.0
+- nodejs
+- .NET 5.0
 
 - git clone https://github.com/hhendrikk/TakeChatTest.git
 
